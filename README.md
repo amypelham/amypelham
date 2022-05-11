@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm Amy Pelham</h1>
-<h3 align="center">A creative fullstack developer from Florida</h3>
+<h1 align="center">Hi 👋, I'm Amy Pelham, a creative fullstack developer from Florida</h1>
+<h3 align="center">I’ve been tinkering with websites since I was 9 years old with the family desktop using AOL dial-up and a free site builder called GeoCities #RIP. My first website was a Sailor Moon fan page followed by a Harry Potter fan page. Much to the world’s dismay, they no longer exist. When I’m not on the computer I’m outside in the wilderness. I love to travel the world and take advantage of the year round warm weather in Florida. You can always find me at the beach, in a kayak, or exploring a state park.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amypelham" alt="amypelham" /></a> </p>
+- 🔭 I’m currently working on **a menstruation cycle tracking app that offers recommendations**
 
-<p align="left"> <a href="https://twitter.com/amye_p" target="blank"><img src="https://img.shields.io/twitter/follow/amye_p?logo=twitter&style=for-the-badge" alt="amye_p" /></a> </p>
+- 🌱 I’m currently learning **how literary genres evolve and change our world**
 
-- 🔭 I’m currently working on **a tic tac toe game**
+- 👨‍💻 Peep my portfolio: [http://amypelham.com/](http://amypelham.com/)
 
-- 🌱 I’m currently learning **more about APIs**
+- 📫 Email me: **aepelham@gmail.com**
 
-- 👨‍💻 All of my projects are available at [http://amypelham.com/](http://amypelham.com/)
-
-- 💬 Ask me about **crocodiles...seriously**
-
-- 📫 How to reach me **aepelham@gmail.com**
-
-- 📄 Know about my experiences [http://amypelham.com/](http://amypelham.com/)
+- 📄 View my resume: [https://drive.google.com/file/d/1CQcpG89oVG3HhG2f2WYBY859WjypSJvE/view?usp=sharing](https://drive.google.com/file/d/1CQcpG89oVG3HhG2f2WYBY859WjypSJvE/view?usp=sharing)
 
 - ⚡ Fun fact **I collect magnets from places I've traveled to**
+
+- 💬 Ask me about **crocodiles...seriously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
