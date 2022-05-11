@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amy Pelham, a creative fullstack developer from Florida</h1>
-<h3 align="center">I’ve been tinkering with websites since I was 9 years old with the family desktop using AOL dial-up and a free site builder called GeoCities #RIP. My first website was a Sailor Moon fan page followed by a Harry Potter fan page. Much to the world’s dismay, they no longer exist. When I’m not on the computer I’m outside in the wilderness. I love to travel the world and take advantage of the year round warm weather in Florida. You can always find me at the beach, in a kayak, or exploring a state park.</h3>
+<h3 align="left">I’ve been tinkering with websites since I was 9 years old with the family desktop using AOL dial-up and a free site builder called GeoCities #RIP. My first website was a Sailor Moon fan page followed by a Harry Potter fan page. Much to the world’s dismay, they no longer exist. When I’m not on the computer I’m outside in the wilderness. I love to travel the world and take advantage of the year round warm weather in Florida. You can always find me at the beach, in a kayak, or exploring a state park.</h3>
 
 - 🔭 I’m currently working on **a menstruation cycle tracking app that offers recommendations**
 
@@ -14,6 +14,8 @@
 - ⚡ Fun fact **I collect magnets from places I've traveled to**
 
 - 💬 Ask me about **crocodiles...seriously**
+
+<P><P>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
