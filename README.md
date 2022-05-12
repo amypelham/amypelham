@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a menstruation cycle tracking app that offers recommendations**
 
-- 🌱 I’m currently learning **how literary genres evolve and change our world**
+- 📖 I’m currently reading **Gumshoes, Fangs, Rockets, & Spies: How Literary Genres Evolve and Change Our World by Ken Pelham**
 
 - 👨‍💻 Peep my portfolio: [http://amypelham.com/](http://amypelham.com/)
 
