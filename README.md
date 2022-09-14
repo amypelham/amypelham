@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a menstruation cycle tracking app that offers recommendations**
 
-- 📖 I’m currently reading **Madame Bovary by Gustave Flaubert**
+- 📖 I’m currently reading **A Court of Silver Flames by Sarah J. Maas.**
 
 - 👨‍💻 Peep my portfolio: [http://amypelham.com/](http://amypelham.com/)
 
