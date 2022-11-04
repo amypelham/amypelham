@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a menstruation cycle tracking app that offers recommendations**
 
-- 📖 I’m currently reading **A Court of Silver Flames by Sarah J. Maas.**
+- 📖 I’m currently reading **The Picture of Dorian Gray by Oscar Wilde**
 
 - 👨‍💻 Peep my portfolio: [http://amypelham.com/](http://amypelham.com/)
 
